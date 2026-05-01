@@ -1,0 +1,9 @@
+{
+  "name": "quiver",
+  "version": "1.0.0",
+  "description": "Quiver - Portfolio Site",
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "start": "npx serve -l 3000"
+  }
+}
