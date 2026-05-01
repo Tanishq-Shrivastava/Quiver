@@ -1,20 +1,9 @@
 {
-  "name": "tanishq-shrivastava-portfolio",
+  "name": "quiver",
   "version": "1.0.0",
-  "description": "Professional portfolio website for Tanishq Shrivastava",
-  "main": "tanishq-shrivastava.html",
+  "description": "Quiver - Portfolio Site",
   "scripts": {
-    "start": "npx http-server",
-    "dev": "npx live-server"
-  },
-  "keywords": [
-    "portfolio",
-    "developer",
-    "fullstack"
-  ],
-  "author": "Tanishq Shrivastava",
-  "license": "MIT",
-  "engines": {
-    "node": "14.0.0"
+    "dev": "npx serve -l 3000",
+    "start": "npx serve -l 3000"
   }
 }
